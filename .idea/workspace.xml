@@ -2,12 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0b67228-8ee8-4733-ac8b-33f099c34209" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CS_web_service_with_Flask.iml" afterPath="$PROJECT_DIR$/.idea/CS_web_service_with_Flask.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Lib/tcl8.6/init.tcl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_asyncio.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_bz2.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_ctypes.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_ctypes_test.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_decimal.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_elementtree.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_hashlib.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_lzma.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_msi.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_multiprocessing.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_overlapped.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_socket.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_sqlite3.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_ssl.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_testbuffer.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_testcapi.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_testconsole.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_testimportmultiple.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_testmultiphase.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/_tkinter.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-console-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-datetime-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-debug-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-errorhandling-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-file-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-file-l1-2-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-file-l2-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-handle-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-heap-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-interlocked-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-libraryloader-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-localization-l1-2-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-memory-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-namedpipe-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-processenvironment-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-processthreads-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-processthreads-l1-1-1.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-profile-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-rtlsupport-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-string-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-synch-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-synch-l1-2-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-sysinfo-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-timezone-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-core-util-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-conio-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-convert-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-environment-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-filesystem-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-heap-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-locale-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-math-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-multibyte-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-private-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-process-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-runtime-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-stdio-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-string-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-time-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/api-ms-win-crt-utility-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/concrt140.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/msvcp140.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/pyexpat.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/python.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/python3.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/python36.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/pythoncom36.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/pythonw.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/pywintypes36.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/select.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/sqlite3.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/tcl86t.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/tk86t.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/ucrtbase.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/unicodedata.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/vccorlib140.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/vcomp140.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/vcruntime140.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/winsound.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/xlwings32.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/Scripts/xlwings64.dll" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/virtual/pyvenv.cfg" afterPath="$PROJECT_DIR$/virtual/pyvenv.cfg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,9 +115,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              <folding>
-                <marker date="1535913155770" expanded="true" signature="67:197" ph="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,31 +130,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="runtime.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runtime.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -112,10 +178,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="x" value="355" />
+    <option name="y" value="265" />
+    <option name="width" value="1390" />
+    <option name="height" value="932" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -132,7 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -147,12 +213,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ddstockpredict" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
@@ -345,26 +411,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="355" y="265" width="1390" height="932" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1342318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23884892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37689614" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -375,6 +441,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/features.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -395,9 +501,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1535913155770" expanded="true" signature="67:197" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -429,7 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3454">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,16 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding>
-            <marker date="1535913155770" expanded="true" signature="67:197" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -471,14 +564,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
