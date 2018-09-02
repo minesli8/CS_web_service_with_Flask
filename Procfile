@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT CS_web_service_with_Flask.web.wsgi:application
+web: gunicorn web:app
