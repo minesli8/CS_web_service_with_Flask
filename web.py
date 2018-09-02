@@ -1,17 +1,22 @@
-from flask import Flask
+from flask import Flask, render_template
+
 app = Flask(__name__)
 
 
-@app.route("/")
-def hello():
-    return "Hello World!"
+# @app.route('/')
+# def navigate():
+#     return render_template('layout.html')
 
 
-@app.route('/sub/')
-def sub():
-    return 'This is a sub function.'
+@app.route('/')
+def home():
+    return render_template('home.html')
 
 
+@app.route('/features/')
+def features():
+    return render_template('features.html')
 
-if __name__ == "__main__":
-    app.run()
+
+if __name__ == '__main__':
+    app.run(debug=True)
